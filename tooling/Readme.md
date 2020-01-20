@@ -19,7 +19,7 @@ This link provides information on installing Bash 5.0 on MacOS and activating it
 
 Brew is the MacOS 3rd party package manager located at: [https://brew.sh/](https://brew.sh/ "brew installer page").  [Chocolatey.org](https://chocolatey.org/ "Chocolatey.org download page") is the Windows 3rd party package manager.  Place screenshot of the version command output for: ```choco --version``` or ```brew --version```
 
-![Family](images/choco.PNG "Family")
+![Family](images/choco--version.PNG "Family")
 
 ## Install Git
 
