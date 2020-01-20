@@ -26,7 +26,7 @@ Brew is the MacOS 3rd party package manager located at: [https://brew.sh/](https
 Using the package manager from the previous step, install the Git Client if you do not already have it installed.  **Note**, this is different from the GitHub Desktop tool, which we will not be using this semester.
 Place a screenshot of the output of the command: ```git --version```
 
-![Family](images/git.PNG "Family")
+![Family](/images/git.PNG "Family")
 
 You will need to configure Git if you already haven't done so.  From a shell run these two commands:
 
@@ -48,7 +48,7 @@ Try to use 6.0.x until the two applications are compatible.  Here are the direct
 
 **Note** - there is some incompatibility with VirtualBox 6.1.x and Vagrant 2.2.6. There is currently a manual workaround at [https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga](https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga "VirtualBox manual Workaround").
 
-![Family](images/vbox.PNG"Family")
+![Family](/images/vbox.PNG"Family")
 
 Version 6.x works with Vagrant 2.2.6
 
@@ -70,7 +70,7 @@ Version 6.x works with Vagrant 2.2.6
 
 Using a package manager, install the latest version of [Packer](https://packer.io "Packer install site").  If you have a version > 1.4.x you will be ok. Note, if on Linux, do not use the built in package manager as these versions of Vagrant and Packer are too old and unmaintained.  Place a screenshot of the output of the command: ```packer --version```
 
-![Family](images/packer.PNG "Family")
+![Family](/images/packer.PNG "Family")
 
 I have a series of samples that I use from Packer to build images.  Clone this sample repo to your computer: ```git clone https://github.com/jhajek/packer-vagrant-build-scripts```  navigate to the ```packer/vanilla-install``` directory from the command line.  Issue the command: ```packer build ubuntu18043-vanilla.json```
 
@@ -89,7 +89,7 @@ After installing an IDE editor of your choice, pick one of the listed or you can
 * [Adobe Brackets](http://brackets.io/ "Adobe Brackets Install")
   * Cross Platform development tool from Adobe
   
-  ![Family](images/family.png "Family")
+  ![Family](/images/family.png "Family")
 
 ## Git-It Tutorial
 
