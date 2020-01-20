@@ -48,7 +48,7 @@ Try to use 6.0.x until the two applications are compatible.  Here are the direct
 
 **Note** - there is some incompatibility with VirtualBox 6.1.x and Vagrant 2.2.6. There is currently a manual workaround at [https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga](https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga "VirtualBox manual Workaround").
 
-![Family](/images/vbox.PNG"Family")
+![Family](/images/vbox.PNG "Family")
 
 Version 6.x works with Vagrant 2.2.6
 
@@ -89,7 +89,7 @@ After installing an IDE editor of your choice, pick one of the listed or you can
 * [Adobe Brackets](http://brackets.io/ "Adobe Brackets Install")
   * Cross Platform development tool from Adobe
   
-  ![Family](/images/family.png "Family")
+  ![Family](/images/vscode.PNG "Family")
 
 ## Git-It Tutorial
 
