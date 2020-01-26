@@ -8,31 +8,49 @@ Presentation One
 Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineering
 
     ~0:45 - Who is the speaker and what is his job at the time of the presentation?
-        answer here
+        Bryan Cantrill (software Engineer)
     ~2:58 - What is the first principle of Ethics in Software Engineering ~1997
-        answer here
+        Product: Sofware engineers shall, insofar as possible, assure that the software on which they work is useful and of acceptable 
+        quality to the public, the employer, the client, and the user, completed on time and at a reasonable cost, and free of error. 
+        
     ~5:20 - What is rule 6.10 of Ethics in Software Engineering ~1997
-        answer here
     ~6:45 - With the rise of what in the late 1990s did the first real foreshocks of ethical dilemmas come?
-        answer here
+        Obey all laws governing their work, insofar as such obedience is consistent with the public health, safety, and welfare.
+    
     ~7:03 - Which company in 1999 was one of the first to bring an ethical "grey area"?
-        answer here
+        Napster 
     ~9:20 - In 2003 with the launch of Friendster, the speaker mentions that "Social Networking was born crooked," why did he conclude that?
-        answer here
+        Bryan concludes that the owner of Friendster deleted accounts that were not able to be dated by Humans (cats, stops signs, ect.),
+        called it "crooked" from the beginning because those actions by the owner expressed intentions of a dating site.
+        
     ~10:08 - In 2011, what was Mark Andreessen's "prophesy"? And was he correct?
-        answer here
+        "More and more major businesses and industries are being run on software and delivered as online services—from movies to        
+        agriculture to national defense. Many of the winners are Silicon Valley-style entrepreneurial technology companies that are 
+        invading and overturning established industry structures. Over the next 10 years, I expect many more industries to be disrupted 
+        by software, with new world-beating Silicon Valley companies doing the disruption in more cases than not."
+            -Mark Andreessen
+            His statements have proven to be true. 1/26/2020
+            
     ~12:32 - What was the ethical dilemma Facebook created in 2012 and how did they defend their actions?
-        answer here
+        Facebook emotional manipulation.
+        defended their actions by saying it was performed in the name of academic research. 
+        
     ~15:20 - In 2013, what was the ethical dilemma introduced by Zenefits and what were they avoiding?
-        answer here
+        Zenifits create a Chrome plug-in to simulate a required event of test taking by law. The software avoided 52 hours of test taking 
+        by automating the task.
+        
     ~17:01 - In 2014, what was the ethical dilemma introduced by Uber in Portland Oregon and who were they deceiving?
-        answer here
+        Uber Geyball: They were deceiving the regulators.
+        
     ~19:07 - In 2015, what was the ethical dilemma introduced by Google Photos mis-labeling and how did AI contribute to it?
-        answer here
+        AI rely on Human classification and why did it identify an image within any pattern is the dilemma.
+        
     ~22:43 - In 2016, what was the ethical dilemma introduced by Tesla?
-        answer here
+        Autopilot fatality.
+        
     ~25:43 - In 2017, what was the ethical dilemma presented to Facebook?
-        answer here
+        Anti-Rohingya violence: technology contributed to genocide of an estimated 75,000 deaths.
+        
     ~30:10 - In 2018, what was the ethical dilemma presented to Joyent (the speaker's company)?
         answer here
     ~30:31 - What is Bryan's thoughts relating to 1st amendment rights and the right to be a customer of a product?
