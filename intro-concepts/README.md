@@ -101,7 +101,8 @@ Jessica Kerr - Principles of Collaborative Automation
         
         
     ~9:00 What is Apache Kafka and what does it do?
-        answer here
+        It is a distributed streaming platform capable of handling trillions of events a day.
+        
     ~10:25 List and briefly describe the 2nd principle of Joint Activity?
         Mutual predictability: Signal what your're doing and why.
         
