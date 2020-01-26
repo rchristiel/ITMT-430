@@ -1,8 +1,10 @@
 # Ramzee Christiel
 
-![Family](images/family.png "Family")
+![Ramzee](images/me.jpg "Ramzee")
 
-![Prince of all Sayans](images/vegeta.jpg "Vegeta")
+![Electrical Project](images/20180516_105815.jpg "Project")
+
+![Electrical Project](images/20180503_095206.jpg "Project")
 
 ## Where are you from?
 
