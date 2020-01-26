@@ -52,19 +52,26 @@ Bryan Cantrill - Andreessen's Corollary: Ethical Dilemmas in Software Engineerin
         Anti-Rohingya violence: technology contributed to genocide of an estimated 75,000 deaths.
         
     ~30:10 - In 2018, what was the ethical dilemma presented to Joyent (the speaker's company)?
-        answer here
+        Joyent hosted a company called Gab, a social media website associated that was associated with the Pittsburgh shooting.
+        
     ~30:31 - What is Bryan's thoughts relating to 1st amendment rights and the right to be a customer of a product?
-        answer here
+        "No one has the inalienable right to be your customer." 
+        "If someone behaves poorly they do not need to be your customer."
+            -Bryan Cantrill
+        
     ~32:31 - What is the ethical dilemma introduced by Boeing and the 737 MAX software and what were two serious results?
-        answer here
+         Developers, engineers, and directors were rushing to create products.
+         JT610/ET302 plane crashes.
+        
     ~37:35 - What is right for software is not necessarily right for what?
-        answer here
+        "Society"
     ~38:59 - The 2018 ACM Software Ethics is now based on what?
-        answer here
+        "it's very principle-based."
+        
     ~39:44 - Instead of seeking ethics answers, what should we be doing?
-        answer here
+        "seek to ask questions."
     ~41:14 - What is Andreessen's Corollary?
-        answer here
+        Ethical quadrary is Andreessen's Corollary
 
 Presentation Two
 
