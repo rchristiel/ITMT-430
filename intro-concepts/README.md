@@ -78,31 +78,51 @@ Presentation Two
 Jessica Kerr - Principles of Collaborative Automation
 
     ~1:04 Where did Ms. Kerr's 4 Principles come out of?
-        answer here
+        Resiliance Engineering Community
+        
     ~3:15 What is the difference between developers and everyone else mentioned?
-        answer here
+        Developers have the avbilty to change the software whereas everyone else don't have that abilty
+        
     ~4:15 What is "symmathesy?"
-        answer here
+        A learning system made of learning parts. "Flows of mutual learning"
+        
     ~5:57 List and briefly describe the 1st principle of Joint Activity?
-        answer here
+        Basic compact 
+        an agreement or mutual purpose until futher notice
+        working toward a common goal and tasks are interelated
+        
     ~7:26 What is collaboration?
-        answer here
+       "The action of working wih someone to produce or create something."
+       Its not about trying harder its abot working together.
+        
     ~8:44 What is the difference between, "rely on" vs. "work with"?
-        answer here
+        I don't rely on my co-workers to be available 24 hour... we work together collectively.
+        I work with my team collaboratively
+        
+        
     ~9:00 What is Apache Kafka and what does it do?
         answer here
     ~10:25 List and briefly describe the 2nd principle of Joint Activity?
-        answer here
+        Mutual predictability: Signal what your're doing and why.
+        
     ~15:10 List and briefly describe the 3rd principle of Joint Activity?
-        answer here
+        Mutual directability: Plans are esources not law.
+        
     ~17:45 What is the strange property of negotiations?
-        answer here
+        The strange property of negotiations are that the party with less flexibility has more power.
+        
     ~19:25 List and briefly describe the 4th principle of Joint Activity
-        answer here
+       Common Ground: shared contex and mental models
+       
     ~22:36 Increased complexity can be balanced by what?
-        answer here
+        Success
     ~22:48 Success begets what and why?
-        answer here
+        Complexity because easy things are able to be accomplished by anyone. Success come to those who have the ability to make comlex 
+        things easy for the masses
     ~24:40 Briefly describe the 4 ironies of automation.
-        answer here
+        The smarter the automation the harder it is to operate
+        Exceptions are the rule
+        Automating the easy stuff makes the harser stuff harder
+        The less flexible party has more power to get its way.
+        
 
