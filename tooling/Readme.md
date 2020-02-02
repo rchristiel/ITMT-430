@@ -62,7 +62,7 @@ Using a package manager, install the latest version of [Vagrant](https://vagrant
 Complete the Vagrant tutorial located at [https://www.vagrantup.com/intro/getting-started/index.html](https://www.vagrantup.com/intro/getting-started/index.html "Vagrant tutorial"), up to the TEARDOWN step, skipping the SHARE step.  
 
 After completing this tutorial take a screenshot of the output of the command ```vagrant box list```
-![Vagrant](/images/Capture.PNG "Vagrant")
+![Vagrant](/images/packer-vagrant.PNG "Vagrant")
 
 
 **Note** - there is some incompatibility with VirtualBox 6.1.x and Vagrant 2.2.6. There is currently a manual workaround at [https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga](https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga "VirtualBox manual Workaround").
