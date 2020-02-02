@@ -62,7 +62,7 @@ Using a package manager, install the latest version of [Vagrant](https://vagrant
 Complete the Vagrant tutorial located at [https://www.vagrantup.com/intro/getting-started/index.html](https://www.vagrantup.com/intro/getting-started/index.html "Vagrant tutorial"), up to the TEARDOWN step, skipping the SHARE step.  
 
 After completing this tutorial take a screenshot of the output of the command ```vagrant box list```
-![Vagrant](/images/packer-vagrant.PNG "Vagrant")
+![Vagrant](/images/Capture.PNG "Vagrant")
 
 
 **Note** - there is some incompatibility with VirtualBox 6.1.x and Vagrant 2.2.6. There is currently a manual workaround at [https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga](https://blogs.oracle.com/scoter/getting-vagrant-226-working-with-virtualbox-61-ga "VirtualBox manual Workaround").
@@ -78,7 +78,7 @@ Using a package manager, install the latest version of [Packer](https://packer.i
 I have a series of samples that I use from Packer to build images.  Clone this sample repo to your computer: ```git clone https://github.com/jhajek/packer-vagrant-build-scripts```  navigate to the ```packer/vanilla-install``` directory from the command line.  Issue the command: ```packer build ubuntu18043-vanilla.json```
 
 Take a screenshot of the output of the ```build``` directory showing the ```*.box``` file.  In the ```build``` directory, create a directory named **ubuntu-vanilla**.  ```cd``` into that directory and issue the ```vagrant init``` command:
-![Packer](/images/vagrant-packer.PNG "Packer")
+![Packer](/images/packer-vagrant.PNG "Packer")
 
 
 ## Install IDE editor
